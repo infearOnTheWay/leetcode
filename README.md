@@ -1,1 +1,3 @@
 # leetcode
+
+everything about leetcode
