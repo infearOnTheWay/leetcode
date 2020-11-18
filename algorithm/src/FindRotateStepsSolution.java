@@ -1,6 +1,3 @@
-/*
- * Copyright (C) 2020 Baidu, Inc. All Rights Reserved.
- */
 
 import java.util.HashMap;
 import java.util.LinkedList;
