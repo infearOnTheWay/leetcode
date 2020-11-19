@@ -12,7 +12,7 @@ public class FindMedianSortedArraysSolution {
     }
 
     private double findKth(int[] nums1, int i, int[] nums2, int j, int k) {
-        // 如果任何一个数组的元素个数不够k/2,就直接从另一个数组中寻找
+        // 如果任何一个数组的元素个数不够k,就直接从另一个数组中寻找
         if (i >= nums1.length) {
             return nums2[j + k - 1];
         }
